@@ -1,0 +1,59 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 50px;
+}
+
+.koptekst {
+  background-color: /* hsl(197, 100%, 85%) */ #d6ffa3 ;
+}
+
+#parallaxText { 
+  position: relative;
+  bottom: 20px;
+  background-position: center; 
+ }
+
+ a {
+   text-decoration: none;
+ }
+
+ .mySlides {
+      display:none;
+      width:100%;
+      min-height: 200px;
+  }
+
+ .olijfgroen {
+   background-color: #ccdfd2;
+   /* voor titels */
+ }
+ .groen {
+  /* blokjes onderaan = verschillende zorgen */
+  background-color:#a2c4be 
+  /* #e69795; */
+ }
+
+ .kernzin {
+  background-color: #eddbbb;
+ }
+ .tekstgroen {
+   color: #007934;
+ }
+ .lichtblauw {
+  /* background-color: rgb(144, 210, 219); */
+  /* uitklapmenu responsive, zorgen */
+  background-color: #a2c4be;
+ }
+
+ .titelMedewerker, .voettekst {
+    background-color: #e8ced1;
+ }
+
+
+ /* .olijfdonkergroen {
+  background-color: rgb(159, 199, 48);
+ } */
